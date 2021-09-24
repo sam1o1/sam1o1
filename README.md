@@ -10,11 +10,11 @@ A junior data scientist and Mechatronics engineering graduate with demonstrated 
 
 # Education                 				      
 - Bachelor of Science in Mechatronics Engineering 	     09/2016 -07/2021                                                                      
-  Arab Academy for Science and Technology    	    	     GPA 3.4/4     
+  [Arab Academy for Science and Technology](https://www.aast.edu/en/index.php)    	    	     GPA 3.4/4     
   Graduation Project                                      A+ 
   
 - Mathematics and Digital Logic 		            		     08/2018 - 12/2018                                                                     
-  Gonzaga University                                     Spokane/WA                
+  [Gonzaga University](https://www.gonzaga.edu/)                                     Spokane/WA                
 
 <!---
 sam1o1/sam1o1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
