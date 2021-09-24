@@ -3,7 +3,7 @@
 
 A junior data scientist and Mechatronics engineering graduate with demonstrated experience in data science, building supervised and unsupervised machine learning models that accomplish predictive and classification tasks using Python. I am a self-learner with more than 30 online courses that included hands-on projects and submissions, a hard worker, a problem solver, loyal, and eager to learn. looking for an opportunity that will help me satisfy my data science passion by solving business problems and learning new technologies.
 
-- 👀 I’m interested in Data science, Machine and deep learning, AI
+- 👀 I’m interested in Data science, ML, NLP, DL, and AI.
 - 💞️ I would like to collaborate on data science projects
 - 📫 How to reach me eslam322_1@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/eabdelghany101/)
