@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Eslam Abdelghany 
+# Personal Info
+👋 Hi, I’m Eslam Abdelghany 
 
 A junior data scientist and Mechatronics engineering graduate with demonstrated experience in data science, building supervised and unsupervised machine learning models that accomplish predictive and classification tasks using Python. I am a self-learner with more than 30 online courses that included hands-on projects and submissions, a hard worker, a problem solver, loyal, and eager to learn. looking for an opportunity that will help me satisfy my data science passion by solving business problems and learning new technologies.
 
@@ -7,7 +8,7 @@ A junior data scientist and Mechatronics engineering graduate with demonstrated 
 - 📫 How to reach me eslam322_1@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/eabdelghany101/)
 
-#Education                 				      
+# Education                 				      
 - Bachelor of Science in Mechatronics Engineering 	     09/2016 -07/2021                                                                      
   Arab Academy for Science and Technology    	    	     GPA 3.4/4     
   Graduation Project                                      A+ 
