@@ -7,6 +7,7 @@ A junior data scientist and Mechatronics engineering graduate with demonstrated 
 - 💞️ I would like to collaborate on data science projects
 - 📫 How to reach me eslam322_1@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/eabdelghany101/)
+- [Medium Blogs](https://medium.com/@eslamics)
 
 # Education                 				      
 - Bachelor of Science in Mechatronics Engineering 	     09/2016 -07/2021                                                                      
