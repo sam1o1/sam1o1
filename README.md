@@ -15,7 +15,9 @@ A junior data scientist and Mechatronics engineering graduate with demonstrated 
   Graduation Project                                      A+ 
   
 - Mathematics and Digital Logic 		            		     08/2018 - 12/2018                                                                     
-  [Gonzaga University](https://www.gonzaga.edu/)                                     Spokane/WA                
+  [Gonzaga University](https://www.gonzaga.edu/)                                     Spokane/WA     
+-English Language and Professional skills Training Program 
+  [The American University in Cairo](https://www.aucegypt.edu/)
 
 <!---
 sam1o1/sam1o1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
