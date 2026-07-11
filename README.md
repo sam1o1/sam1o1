@@ -3,14 +3,14 @@
 <div align="center">
   <h2>🚀 AI Engineer | GenAI Developer | Data Scientist | LLM Specialist</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;Specializing+in+LLMs+%26+RAG+Pipelines;Cloud+AI+%26+Semantic+Search+Expert;Transforming+AI+Ideas+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;Specializing+in+LLM[...]
 </div>
 
 ---
 
 ## ✨ About Me
 
-I'm an **AI Engineer at NowVertical Group (NVG)** with **3+ years** of hands-on experience building **production-grade Generative AI and Data Science systems**. I specialize in transforming unstructured data into intelligent insights.
+I'm an **AI Engineer at NowVertical Group (NVG)** with **3+ years** of hands-on experience building **production-grade Generative AI and Data Science systems**. I specialize in transforming unstructur[...]
 
 I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve real business problems using **LangChain, Azure OpenAI, FastAPI, and Pinecone**.
 
@@ -57,15 +57,15 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 ### 🔥 GitHub Contributions & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam1o1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A3E0&icon_color=00A3E0&text_color=c9cacc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam1o1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&icon_color=00A3E0&text_color=c9cacc)
 
 ### 🎯 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1o1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A3E0&text_color=c9cacc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1o1&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&text_color=c9cacc)
 
 ### 🔥 GitHub Streaks & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1o1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00A3E0&ring=00A3E0&fire=FF6B6B&currStreakNum=c9cacc&currStreakLabel=00A3E0&dates=c9cacc)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1o1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00A3E0&ring=00A3E0&fire=FF6B6B&currStreakNum=c9cacc&currStreakL[...]
 
 ### 📈 Repository Statistics
 
@@ -83,11 +83,11 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Large Language Models** | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LLaMA](https://img.shields.io/badge/LLaMA-2C2C2C?style=for-the-badge&logoColor=white) |
-| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logoColor=white) |
-| **Embeddings & Vector DB** | ![Pinecone](https://img.shields.io/badge/Pinecone-2D2D2D?style=for-the-badge&logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-the-badge&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A3E0?style=for-the-badge&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-FF6F00?style=for-the-badge&logoColor=white) |
-| **RAG & Retrieval** | ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=for-the-badge&logoColor=white) ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4169E1?style=for-the-badge&logoColor=white) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-FF1493?style=for-the-badge&logoColor=white) |
-| **Fine-tuning & Optimization** | ![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge&logoColor=white) ![Quantization](https://img.shields.io/badge/Quantization-9370DB?style=for-the-badge&logoColor=white) ![Model Compression](https://img.shields.io/badge/Model%20Compression-2E8B57?style=for-the-badge&logoColor=white) |
+| **Large Language Models** | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-00[...]
+| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=f[...]
+| **Embeddings & Vector DB** | ![Pinecone](https://img.shields.io/badge/Pinecone-2D2D2D?style=for-the-badge&logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-[...]
+| **RAG & Retrieval** | ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=for-the-badge&logoColor=white) ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4169[...]
+| **Fine-tuning & Optimization** | ![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge&logoColor=white) ![Quantization](https://img.shields.io/badge/Quantization-9370DB?style=for-the-[...]
 
 ---
 
