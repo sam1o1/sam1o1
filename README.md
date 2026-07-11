@@ -3,8 +3,7 @@
 <div align="center">
   <h2>🚀 AI Engineer | GenAI Developer | Data Scientist | LLM Specialist</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;Specializing+in+LLM[...]
-</div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;LLM+Specialist+%7C+RAG+Architect+%7C+AI+Engineer;Transforming+Ideas+into+Scalable+AI+Solutions" alt="Typing SVG" />
 
 ---
 
