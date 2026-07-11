@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Eslam Abdelghany**
 
 <div align="center">
-  <a href="https://github.com/sam1o1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A3E0&center=true&width=500&lines=🚀+AI+Engineer;GenAI+Developer;Data+Scientist;LLM+Specialist" alt="Typing SVG" />
-  </a>
+  <h2>🚀 AI Engineer | GenAI Developer | Data Scientist | LLM Specialist</h2>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;Specializing+in+LLMs+%26+RAG+Pipelines;Cloud+AI+%26+Semantic+Search+Expert;Transforming+AI+Ideas+into+Impact" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,32 +20,38 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 <table align="center">
   <tr>
-    <td align="center">
-      🤖<br/><strong>Generative AI & LLMs</strong><br/>Building with OpenAI, Azure OpenAI, & emerging models
+    <td align="center" width="33%">
+      <strong>🤖 Generative AI & LLMs</strong><br/>
+      Building with OpenAI, Azure OpenAI, & emerging models
     </td>
-    <td align="center">
-      🔍<br/><strong>RAG Systems</strong><br/>Retrieval-augmented generation for enterprise knowledge bases
+    <td align="center" width="33%">
+      <strong>🔍 RAG Systems</strong><br/>
+      Retrieval-augmented generation for enterprise knowledge bases
     </td>
-    <td align="center">
-      🧠<br/><strong>NLP & Deep Learning</strong><br/>Natural language understanding & computer vision
+    <td align="center" width="33%">
+      <strong>🧠 NLP & Deep Learning</strong><br/>
+      Natural language understanding & computer vision
     </td>
   </tr>
   <tr>
-    <td align="center">
-      📊<br/><strong>Semantic Search</strong><br/>Vector databases & hybrid search implementations
+    <td align="center" width="33%">
+      <strong>📊 Semantic Search</strong><br/>
+      Vector databases & hybrid search implementations
     </td>
-    <td align="center">
-      ☁️<br/><strong>Cloud AI</strong><br/>Azure, GCP, AWS AI services & serverless architectures
+    <td align="center" width="33%">
+      <strong>☁️ Cloud AI</strong><br/>
+      Azure, GCP, AWS AI services & serverless architectures
     </td>
-    <td align="center">
-      🛠️<br/><strong>Full-Stack Development</strong><br/>Frontend + Backend AI solutions
+    <td align="center" width="33%">
+      <strong>🛠️ Full-Stack Development</strong><br/>
+      Frontend + Backend AI solutions
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 LLM Stack & Generative AI
+## 🚀 LLM Stack & Generative AI ⭐
 
 <div align="center">
   <h3>🔥 My Specialized LLM & AI Tech Stack</h3>
@@ -126,13 +132,6 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### **LLM & Generative AI** ⭐
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-2D2D2D?style=for-the-badge&logo=pinecone&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-2C2C2C?style=for-the-badge&logoColor=white)
 
 ### **Data & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -256,9 +255,7 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 ### 🎯 **Current Mission**
 *Transforming AI ideas into real-world impact through innovative LLM applications and scalable systems*
 
-</div>
-
-<div align="center">
+---
 
 [![GitHub followers](https://img.shields.io/github/followers/sam1o1?style=social)](https://github.com/sam1o1)
 [![Twitter](https://img.shields.io/twitter/follow/eslamics?style=social)](https://twitter.com/eslamics)
