@@ -160,32 +160,29 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 AI Projects & Expertise
 
-### 🤖 AI & LLM Projects
-- **[AI Agents for Beginners](https://github.com/sam1o1/ai-agents-for-beginners)** — 10 Lessons to Building AI Agents
-- **[RAG End-to-End](https://github.com/sam1o1/RAG-END-TO-END)** — Complete RAG pipeline implementation
-- **[GenAI Chat](https://github.com/sam1o1/GenAI-Chat)** — Interactive generative AI chat application
-- **[LLM-based Compliance App](https://github.com/sam1o1/LLM-based-compliance-app)** — Document compliance checking with LLMs
-- **[EmailAnalytics-AzureOpenAI](https://github.com/sam1o1/EmailAnalytics-AzureOpenAi)** — Email intelligence with Azure OpenAI
+### 🤖 **Generative AI & LLM Applications**
+- AI Agents for Beginners — Building autonomous AI agents with decision-making capabilities
+- RAG End-to-End — Complete retrieval-augmented generation pipeline with vector databases
+- GenAI Chat — Interactive generative AI chat application with context awareness
+- LLM-based Compliance App — Document compliance checking and validation using LLMs
+- EmailAnalytics-AzureOpenAI — Email intelligence analysis with Azure OpenAI integration
 
-### 📊 Data Science & Analytics
-- **[Deep Learning v2 PyTorch](https://github.com/sam1o1/deep-learning-v2-pytorch)** — Udacity Deep Learning projects
-- **[Arabic Dialect Detection](https://github.com/sam1o1/Arabic-Dialect-Detection)** — NLP with ML & Deep Learning
-- **[Fraud Detection](https://github.com/sam1o1/Fraud_detection)** — Machine learning fraud detection system
-- **[Sentiment Analysis](https://github.com/sam1o1/Sentiment_analysis_implementation)** — Multi-method sentiment analysis
-- **[Spacy NLP](https://github.com/sam1o1/Spacy)** — Advanced NLP using Spacy library
+### 📊 **NLP & Deep Learning Systems**
+- Deep Learning with PyTorch — Advanced neural networks and computer vision models
+- Arabic Dialect Detection — Multi-class NLP classification for Arabic language variants
+- Sentiment Analysis — Multi-method sentiment analysis with deep learning architectures
+- Advanced NLP with Spacy — Named entity recognition and linguistic processing
+- Topic Modeling & LDA — Unsupervised learning for document topic discovery
 
-### 🏗️ Engineering & Systems
-- **[Database Design & Implementation](https://github.com/sam1o1/Database-Design-and-Implementation)** — IBM Data Engineering RDBMS
-- **[Disaster Response Pipeline](https://github.com/sam1o1/Diaster-Response-Pipeline)** — Data science ETL pipeline
-- **[Invoice Reconciliation System](https://github.com/sam1o1/invoice_reconciliation_system)** — Automated invoice processing
-- **[Credit Score System](https://github.com/sam1o1/credit-score-sys)** — Financial scoring engine
-- **[Recommendation System](https://github.com/sam1o1/recommendation_sys)** — Personalized recommendation engine
-
-### 💻 Web & Frontend
-- **[lolo](https://github.com/sam1o1/lolo)** — JavaScript/React frontend project
-- **[Topic Modeling Visualization](https://github.com/sam1o1/topic_modeling_using_lda)** — Interactive HTML/JS LDA visualization
+### 🔍 **Data Intelligence & Analytics**
+- Fraud Detection Systems — Machine learning models for anomaly detection and classification
+- Recommendation Engines — Personalized recommendation systems with collaborative filtering
+- Database Design & Implementation — Enterprise RDBMS architecture and optimization
+- Disaster Response Pipeline — Data science ETL pipeline for emergency analytics
+- Invoice Reconciliation System — Automated document processing and intelligent matching
+- Credit Score Systems — AI-powered financial scoring and risk assessment
 
 ---
 
