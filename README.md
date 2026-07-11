@@ -51,6 +51,30 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 ---
 
+## 📊 GitHub Analytics & Statistics
+
+<div align="center">
+
+### 🔥 GitHub Contributions & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam1o1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A3E0&icon_color=00A3E0&text_color=c9cacc)
+
+### 🎯 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1o1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A3E0&text_color=c9cacc)
+
+### 🔥 GitHub Streaks & Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1o1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00A3E0&ring=00A3E0&fire=FF6B6B&currStreakNum=c9cacc&currStreakLabel=00A3E0&dates=c9cacc)
+
+### 📈 Repository Statistics
+
+![Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam1o1&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🚀 LLM Stack & Generative AI ⭐
 
 <div align="center">
@@ -199,21 +223,6 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 - 🏆 Data Scientist Nanodegree — Udacity (2021)
 - 🏆 Machine Learning — Stanford Online (2020)
 - 🏆 Mathematics for Machine Learning Specialization — Coursera
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-| Metric | Value |
-|:---:|:---:|
-| **Total Repositories** | 45+ projects |
-| **Primary Languages** | Python, Jupyter, JavaScript |
-| **Focus Areas** | AI/ML, LLMs, Data Science, GenAI |
-| **Recent Focus** | RAG Pipelines, Azure Infrastructure |
-
-</div>
 
 ---
 
