@@ -2,14 +2,16 @@
 
 <div align="center">
   <h2>🚀 AI Engineer | GenAI Developer | Data Scientist | LLM Specialist</h2>
-  
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;LLM+Specialist+%7C+RAG+Architect+%7C+AI+Engineer;Transforming+Ideas+into+Scalable+AI+Solutions" alt="Typing SVG" />
+
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00A3E0&center=true&width=600&lines=Building+Production-Grade+GenAI+Systems;LLM+Specialist+%7C+RAG+Architect+%7C+AI+Engineer;Transforming+Ideas+into+Scalable+AI+Solutions" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## ✨ About Me
 
-I'm an **AI Engineer at NowVertical Group (NVG)** with **3+ years** of hands-on experience building **production-grade Generative AI and Data Science systems**. I specialize in transforming unstructur[...]
+I'm an **AI Engineer at NowVertical Group (NVG)** with **3+ years** of hands-on experience building **production-grade Generative AI and Data Science systems**. I specialize in transforming unstructured data into intelligent, business-ready AI products — from RAG pipelines and AI agents to end-to-end ML platforms.
 
 I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve real business problems using **LangChain, Azure OpenAI, FastAPI, and Pinecone**.
 
@@ -50,25 +52,54 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 ---
 
+## 🛠️ Tech Stack Dashboard
+
+<div align="center">
+
+**🤖 GenAI & LLMs**<br/>
+<img src="https://skillicons.dev/icons?i=openai,langchain,pinecone,huggingface&theme=dark" />
+
+**💬 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash&theme=dark" />
+
+**🧠 AI/ML & Data Science**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,pandas,numpy,plotly,jupyter&theme=dark" />
+
+**🎨 Frontend & Web**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,streamlit&theme=dark" />
+
+**⚙️ Backend & APIs**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs&theme=dark" />
+
+**☁️ Cloud & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,linux&theme=dark" />
+
+**🗄️ Databases & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlserver,git,githubactions,anaconda,vscode&theme=dark" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics & Statistics
 
 <div align="center">
 
 ### 🔥 GitHub Contributions & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam1o1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&icon_color=00A3E0&text_color=c9cacc)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eslam-abdelghany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&icon_color=00A3E0&text_color=c9cacc)
 
 ### 🎯 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1o1&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&text_color=c9cacc)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eslam-abdelghany&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00A3E0&text_color=c9cacc)
 
 ### 🔥 GitHub Streaks & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam1o1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00A3E0&ring=00A3E0&fire=FF6B6B&currStreakNum=c9cacc&currStreakL[...]
+![GitHub Streak](https://streak-stats.demolab.com?user=eslam-abdelghany&theme=tokyonight&hide_border=true&background=0d1117&stroke=00A3E0&ring=00A3E0&fire=FF6B6B&currStreakNum=c9cacc&currStreakLabel=c9cacc&sideNums=c9cacc&sideLabels=c9cacc&dates=c9cacc)
 
 ### 📈 Repository Statistics
 
-![Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam1o1&theme=tokyonight)
+![Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslam-abdelghany&theme=tokyonight)
 
 </div>
 
@@ -82,11 +113,11 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Large Language Models** | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-00[...]
-| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=f[...]
-| **Embeddings & Vector DB** | ![Pinecone](https://img.shields.io/badge/Pinecone-2D2D2D?style=for-the-badge&logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-[...]
-| **RAG & Retrieval** | ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=for-the-badge&logoColor=white) ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4169[...]
-| **Fine-tuning & Optimization** | ![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge&logoColor=white) ![Quantization](https://img.shields.io/badge/Quantization-9370DB?style=for-the-[...]
+| **Large Language Models** | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logoColor=white) ![GPT-4](https://img.shields.io/badge/GPT--4-74AA9C?style=for-the-badge&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white) |
+| **Embeddings & Vector DB** | ![Pinecone](https://img.shields.io/badge/Pinecone-2D2D2D?style=for-the-badge&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-the-badge&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A3E0?style=for-the-badge&logoColor=white) |
+| **RAG & Retrieval** | ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=for-the-badge&logoColor=white) ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4169E1?style=for-the-badge&logoColor=white) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-00A3E0?style=for-the-badge&logoColor=white) |
+| **Fine-tuning & Optimization** | ![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge&logoColor=white) ![PEFT](https://img.shields.io/badge/PEFT-9370DB?style=for-the-badge&logoColor=white) ![Quantization](https://img.shields.io/badge/Quantization-9370DB?style=for-the-badge&logoColor=white) |
 
 ---
 
@@ -150,7 +181,7 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **AI/ML & Deep Learning**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -160,19 +191,19 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=for-the-badge&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### **Cloud & Infrastructure**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Databases & Search**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A3E0?style=for-the-badge&logoColor=white)
 
@@ -233,7 +264,7 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 💼 **LinkedIn:** [linkedin.com/in/eslamics](https://www.linkedin.com/in/eslamics)
 
-💻 **GitHub:** [github.com/sam1o1](https://github.com/sam1o1)
+💻 **GitHub:** [github.com/eslam-abdelghany](https://github.com/eslam-abdelghany)
 
 🤗 **Hugging Face:** [huggingface.co/sam1o1](https://huggingface.co/sam1o1)
 
@@ -262,8 +293,8 @@ I enjoy crafting **intelligent, scalable, cloud-deployed AI systems** that solve
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/sam1o1?style=social)](https://github.com/sam1o1)
-[![Twitter](https://img.shields.io/twitter/follow/eslamics?style=social)](https://twitter.com/eslamics)
+[![GitHub followers](https://img.shields.io/github/followers/eslam-abdelghany?style=social)](https://github.com/eslam-abdelghany)
+[![X](https://img.shields.io/badge/X-@eslamics-000000?style=social&logo=x)](https://x.com/eslamics)
 
 **⭐ If my work interests you, feel free to star my repositories!**
 
